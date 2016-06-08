@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0
+  lightness: 0.1026119
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#DDDDDD'
+    - '#5B5B5B'
+    - '#111111'
+    - '#787878'
+  rhythmicContrast: 1
+typography_spectrum: 0.4869403
+name: Dadgum Media Group
