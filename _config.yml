@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4869403
 color:
   saturation: 0
-  lightness: 0.1026119
   brandStrength: 1
+  rhythmicContrast: 1
   brandColors:
     - '#FFFFFF'
     - '#DDDDDD'
     - '#5B5B5B'
     - '#111111'
     - '#787878'
-  rhythmicContrast: 1
-typography_spectrum: 0.4869403
+  lightness: 0.1026119
+layout_spectrum: 0.2938433
 name: Dadgum Media Group
