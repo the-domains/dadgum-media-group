@@ -1,18 +1,16 @@
 ---
+title: 'Dadgum Media Group, INC.'
+datePublished: '2016-06-08T02:47:58.365Z'
+dateModified: '2016-06-08T02:47:25.985Z'
 author: []
-datePublished: '2016-06-08T02:43:07.610Z'
-title: ''
 isBasedOnUrl: 'https://spark.adobe.com/page/4fQjt/'
-description: ''
-sourcePath: _posts/2016-06-08-dadgum-media-group-inc.md
-dateModified: '2016-06-08T02:42:57.657Z'
+description: A story told with Adobe Spark
 starred: false
+sourcePath: _posts/2016-06-08-dadgum-media-group-inc.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d51ffabe-e54e-420f-9cce-1aa703e1b7e8.jpg)
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/002904b479ebd672b84a1e4642caa19baafc4d8f.jpg" /></article>
+<article style=""><h1>Dadgum Media Group, INC.</h1><p>A story told with Adobe Spark</p><img src="https://spark.adobe.com/cp/4fQjt/embed.jpg?buster=1465352360751" /></article>
