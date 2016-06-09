@@ -13,14 +13,14 @@ collections:
 typography_spectrum: 0.4869403
 color:
   saturation: 0
-  brandStrength: 1
+  brandStrength: 0.6301306
   lightness: 0.7038246
   brandColors:
-    - '#FEFEFE'
-    - '#040500'
-    - '#785130'
-    - '#FDB58D'
-    - '#878F99'
+    - '#000000'
+    - '#FFFFFF'
+    - '#896849'
+    - '#C0A590'
+    - '#910000'
   rhythmicContrast: 0.2374067
 layout_spectrum: 0.6823694
 name: Dadgum Media Group
