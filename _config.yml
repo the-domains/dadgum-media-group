@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.4869403
 color:
   saturation: 0
   brandStrength: 1
@@ -21,6 +22,5 @@ color:
     - '#3A3B36'
     - '#100F0B'
   rhythmicContrast: 1
-typography_spectrum: 0.4869403
-layout_spectrum: 0.883862
+layout_spectrum: 1
 name: Dadgum Media Group
