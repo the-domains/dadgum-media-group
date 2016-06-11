@@ -1,0 +1,44 @@
+---
+dateModified: '2016-06-10T14:02:09.203Z'
+author:
+  - name: storsimple
+    url: 'http://twitter.com/storsimple'
+    avatar:
+      src: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e2ac63355fa9392f0bbe5d4f1178bce7b90ba7f.jpg
+      original: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e2ac63355fa9392f0bbe5d4f1178bce7b90ba7f.jpg
+      width: 48
+      height: 48
+      colors:
+        - - 255
+          - 255
+          - 255
+        - - 211
+          - 211
+          - 211
+        - - 135
+          - 135
+          - 135
+        - - 63
+          - 63
+          - 63
+        - - 16
+          - 16
+          - 16
+title: ''
+isBasedOnUrl: 'https://twitter.com/storsimple/status/738433792243683328'
+description: >-
+  Find out how StorSimple can reduce IT management and costs:
+  http://bit.ly/1RridNV
+datePublished: '2016-06-11T03:31:19.232Z'
+sourcePath: >-
+  _posts/2016-06-08-find-out-how-storsimple-can-reduce-it-management-and-costs.md
+starred: false
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
+
+---
+![Find out how StorSimple can reduce IT management and costs: http://bit.ly/1RridNV](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1253fdeb50279d70cbdffbd1995186e04b908e20.png)
