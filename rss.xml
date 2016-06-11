@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DadgumMediaGroup]]></title>
+        <description><![CDATA[DadgumMediaGroup]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 11 Jun 2016 03:30:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dadgum Media Group, INC.]]></title>
+            <description><![CDATA[<article><h1>Dadgum Media Group, INC.</h1><p>A story told with Adobe Spark</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/002904b479ebd672b84a1e4642caa19baafc4d8f.jpg"></article>]]></description>
+            <link>https://spark.adobe.com/page/4fQjt/</link>
+            <guid isPermaLink="false">fb8b31e3-fafc-4e88-a66e-66b94b71dd8d</guid>
+            <pubDate>Sat, 11 Jun 2016 03:30:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
