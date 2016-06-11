@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[DadgumMediaGroup]]></title>
         <description><![CDATA[DadgumMediaGroup]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dadgum-media-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 03:30:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 11 Jun 2016 03:30:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dadgum-media-group/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CkcsUfrWUAAoYz7.jpg:large" alt="freelance #hat &quot;I May be Easy But I&apos;m Not Cheap&quot; http://geni.us/21So #gift #consultant #contractorpic.twitter.com/M1rexXTg71">]]></description>
+            <link>https://twitter.com/terryirving/status/740609396598812672</link>
+            <guid isPermaLink="false">3317499e-24e9-4d7f-83d1-70374df903c1</guid>
+            <pubDate>Sat, 11 Jun 2016 03:30:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dadgum Media Group, INC.]]></title>
             <description><![CDATA[<article><h1>Dadgum Media Group, INC.</h1><p>A story told with Adobe Spark</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/002904b479ebd672b84a1e4642caa19baafc4d8f.jpg"></article>]]></description>
