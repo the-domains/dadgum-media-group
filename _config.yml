@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.8423507
 color:
   saturation: 0
   brandStrength: 0.4458955
@@ -21,6 +22,5 @@ color:
     - '#747A78'
     - '#E18384'
   rhythmicContrast: 1
-typography_spectrum: 0.4869403
 layout_spectrum: 1
 name: Dadgum Media Group
