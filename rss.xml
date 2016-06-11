@@ -4,8 +4,15 @@
         <description><![CDATA[DadgumMediaGroup]]></description>
         <link>https://thegrid.ai/dadgum-media-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 03:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 17:59:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dadgum-media-group/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dadgum Media Group, INC.]]></title>
+            <description><![CDATA[<article><h1>Dadgum Media Group, INC.</h1><p>A story told with Adobe Spark</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/002904b479ebd672b84a1e4642caa19baafc4d8f.jpg"></article>]]></description>
+            <link>https://spark.adobe.com/page/4fQjt/</link>
+            <guid isPermaLink="false">fb8b31e3-fafc-4e88-a66e-66b94b71dd8d</guid>
+            <pubDate>Sat, 11 Jun 2016 17:59:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/542440e9c9473359cc94a3b59047a22867e7b1a6.jpg" alt="Thanksgiving is 6 months away! Check out this data to jumpstart your holiday marketing plan: https://goo.gl/vIwPnl">]]></description>
@@ -54,13 +61,6 @@
             <link>https://twitter.com/terryirving/status/740609396598812672</link>
             <guid isPermaLink="false">3317499e-24e9-4d7f-83d1-70374df903c1</guid>
             <pubDate>Sat, 11 Jun 2016 03:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dadgum Media Group, INC.]]></title>
-            <description><![CDATA[<article><h1>Dadgum Media Group, INC.</h1><p>A story told with Adobe Spark</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/002904b479ebd672b84a1e4642caa19baafc4d8f.jpg"></article>]]></description>
-            <link>https://spark.adobe.com/page/4fQjt/</link>
-            <guid isPermaLink="false">fb8b31e3-fafc-4e88-a66e-66b94b71dd8d</guid>
-            <pubDate>Sat, 11 Jun 2016 03:30:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
