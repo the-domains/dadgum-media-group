@@ -10,6 +10,9 @@ color:
     - '#747A78'
     - '#E18384'
   rhythmicContrast: 1
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/16ef2f68-3ab8-459f-990e-8a6beb682276.jpg
 layout_spectrum: 0.4892724
 author:
   name: ''
