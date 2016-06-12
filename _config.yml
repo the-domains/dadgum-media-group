@@ -1,28 +1,14 @@
+name: Dadgum Media Group
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb6efcd6-62c3-4a09-80bb-9ec6d7389e6c.jpg
+layout_spectrum: 0.21676
 typography_spectrum: 0.8423507
-color:
-  saturation: 0.033256649505347013
-  brandStrength: 0.1868665311485529
-  lightness: 0.1259134814608842
-  brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-  rhythmicContrast: 0.5123394862748682
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/16ef2f68-3ab8-459f-990e-8a6beb682276.jpg
-layout_spectrum: 0.20272498112171888
 author:
   name: ''
   email: wblanco@dadgummedia.com
   url: 'http://dadgummedia.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/99651a38-4a93-449b-887a-62ec9dac06c7.png
-name: Dadgum Media Group
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb6efcd6-62c3-4a09-80bb-9ec6d7389e6c.jpg
 collections:
   - index:
       path: /
@@ -35,3 +21,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/16ef2f68-3ab8-459f-990e-8a6beb682276.jpg
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  brandStrength: 0.1868665311485529
+  lightness: 0.1259134814608842
+  saturation: 0.033256649505347013
+  rhythmicContrast: 0.5123394862748682
+purpose: []
