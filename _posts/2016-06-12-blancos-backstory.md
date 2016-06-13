@@ -19,8 +19,8 @@ description: >-
   William Blanco is an Executive Producer specializing in the development of new
   product. He owns and operates Dadgum Media Group INC, a fully owned subsidiary
   of Best Values USA INC.
-datePublished: '2016-06-13T01:47:03.059Z'
-dateModified: '2016-06-13T01:46:32.881Z'
+datePublished: '2016-06-13T02:10:26.377Z'
+dateModified: '2016-06-13T01:47:07.118Z'
 related: []
 author: []
 title: 'Blanco’s Backstory '
