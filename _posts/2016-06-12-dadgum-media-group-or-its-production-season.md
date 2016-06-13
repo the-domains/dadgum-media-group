@@ -1,24 +1,26 @@
 ---
-datePublished: '2016-06-12T00:07:23.875Z'
-isBasedOnUrl: 'http://dadgummedia.com'
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
+description: ''
+datePublished: '2016-06-13T02:12:07.980Z'
+dateModified: '2016-06-13T02:12:07.637Z'
 related: []
 author: []
-dateModified: '2016-06-12T00:07:21.508Z'
 title: Dadgum Media Group | It's Production Season!
 app_links: []
+sourcePath: _posts/2016-06-12-dadgum-media-group-or-its-production-season.md
+authors: []
 publisher:
-  url: 'http://dadgummedia.com'
   name: Dadgummedia
+  domain: dadgummedia.com
+  url: 'http://dadgummedia.com'
   favicon: >-
     http://dadgummedia.com/wp-content/uploads/2016/06/image-1-e1465674026374.jpeg
-  domain: dadgummedia.com
-description: ''
 starred: true
-sourcePath: _posts/2016-06-12-dadgum-media-group-or-its-production-season.md
-inFeed: true
-hasPage: false
-inNav: false
+url: dadgum-media-group-or-its-production-season/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
