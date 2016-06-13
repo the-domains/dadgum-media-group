@@ -21,6 +21,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: 'Dadgum Mashup Blog '
 cta:
   domain: null
   bucket: null
