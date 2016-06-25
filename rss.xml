@@ -4,7 +4,7 @@
         <description><![CDATA[Dadgum Mashup Blog ]]></description>
         <link>https://thegrid.ai/dadgum-media-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 15:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 15:23:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dadgum-media-group/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dadgum Media Group | It's Production Season!]]></title>
@@ -19,6 +19,13 @@
             <link>http://wbmvtv.com</link>
             <guid isPermaLink="false">4054af54-9110-40b0-9c22-fe6a6ba1233b</guid>
             <pubDate>Mon, 13 Jun 2016 02:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#AD4EVER Back to Basics V: It's Time for Stop Motion Animation]]></title>
+            <description><![CDATA[<article><h1>#AD4EVER Back to Basics V: It's Time for Stop Motion Animation</h1><p>You must have come across a flip book when you were younger and find yourself unable to resist flicking it over and over again once you have started. And after each time it leaves you with a feeling of amazement, as you see static images come to life in front of your eyes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7941a68efb0c7ea992eef8672f647ddf/noop.jpg?input=http%3A%2F%2Fi0.wp.com%2Fblog.kdanmobile.com%2Fwp-content%2Fuploads%2F2016%2F06%2F1.2.jpg%3Fresize%3D1024%252C671"></article>]]></description>
+            <link>http://blog.kdanmobile.com/2016/06/16/ad4ever-back-to-basics-v-its-time-for-stop-motion-animation/</link>
+            <guid isPermaLink="false">69c63090-5de7-4f9b-abc8-d144ec96faaa</guid>
+            <pubDate>Sat, 25 Jun 2016 15:23:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elegant Smartwatch by Vector]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/showbiz_it/status/740179492010741761</link>
             <guid isPermaLink="false">163d3435-68c6-4e5f-a912-123aa28dc139</guid>
             <pubDate>Sat, 11 Jun 2016 03:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://pbs.twimg.com/media/CkcsUfrWUAAoYz7.jpg:large" alt="freelance #hat &quot;I May be Easy But I&apos;m Not Cheap&quot; http://geni.us/21So #gift #consultant #contractorpic.twitter.com/M1rexXTg71">]]></description>
-            <link>https://twitter.com/terryirving/status/740609396598812672</link>
-            <guid isPermaLink="false">3317499e-24e9-4d7f-83d1-70374df903c1</guid>
-            <pubDate>Sat, 11 Jun 2016 03:30:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
