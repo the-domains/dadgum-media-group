@@ -1,5 +1,15 @@
 ---
-dateModified: '2016-06-10T14:02:09.203Z'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/storsimple/status/738433792243683328'
+inLanguage: null
+keywords: []
+description: >-
+  Find out how StorSimple can reduce IT management and costs:
+  http://bit.ly/1RridNV
+datePublished: '2016-08-30T03:38:33.877Z'
+dateModified: '2016-08-30T03:37:26.943Z'
 author:
   - name: storsimple
     url: 'http://twitter.com/storsimple'
@@ -27,17 +37,16 @@ author:
           - 16
           - 16
 title: ''
-isBasedOnUrl: 'https://twitter.com/storsimple/status/738433792243683328'
-description: >-
-  Find out how StorSimple can reduce IT management and costs:
-  http://bit.ly/1RridNV
-datePublished: '2016-06-11T03:31:19.232Z'
 sourcePath: >-
   _posts/2016-06-08-find-out-how-storsimple-can-reduce-it-management-and-costs.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
