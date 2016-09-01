@@ -8,8 +8,8 @@ keywords: []
 description: >-
   Find out how StorSimple can reduce IT management and costs:
   http://bit.ly/1RridNV
-datePublished: '2016-08-30T03:38:33.877Z'
-dateModified: '2016-08-30T03:37:26.943Z'
+datePublished: '2016-08-30T03:52:38.508Z'
+dateModified: '2016-08-30T03:52:38.067Z'
 author:
   - name: storsimple
     url: 'http://twitter.com/storsimple'
@@ -39,13 +39,13 @@ author:
 title: ''
 sourcePath: >-
   _posts/2016-06-08-find-out-how-storsimple-can-reduce-it-management-and-costs.md
+via: {}
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-via: {}
 starred: false
 _type: MediaObject
 
